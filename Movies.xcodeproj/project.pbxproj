@@ -16,6 +16,17 @@
 		A6F8AF751D410878008D2274 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6F8AF731D410878008D2274 /* LaunchScreen.storyboard */; };
 		A6F8AF801D410878008D2274 /* MoviesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AF7F1D410878008D2274 /* MoviesTests.m */; };
 		A6F8AF8B1D410878008D2274 /* MoviesUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AF8A1D410878008D2274 /* MoviesUITests.m */; };
+		A6F8AF991D410CBE008D2274 /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F8AF981D410CBE008D2274 /* more.png */; };
+		A6F8AF9B1D4117BB008D2274 /* help.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F8AF9A1D4117BB008D2274 /* help.png */; };
+		A6F8AF9D1D4117CB008D2274 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F8AF9C1D4117CB008D2274 /* settings.png */; };
+		A6F8AF9F1D4117D5008D2274 /* about.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F8AF9E1D4117D5008D2274 /* about.png */; };
+		A6F8AFA21D411C49008D2274 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFA11D411C49008D2274 /* LoginViewController.m */; };
+		A6F8AFA51D411C74008D2274 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFA41D411C74008D2274 /* SearchViewController.m */; };
+		A6F8AFA81D411CE0008D2274 /* BookmarksViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFA71D411CE0008D2274 /* BookmarksViewController.m */; };
+		A6F8AFAB1D411D0F008D2274 /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFAA1D411D0F008D2274 /* DetailsViewController.m */; };
+		A6F8AFAE1D411DFB008D2274 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFAD1D411DFB008D2274 /* AboutViewController.m */; };
+		A6F8AFB11D411E08008D2274 /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFB01D411E08008D2274 /* HelpViewController.m */; };
+		A6F8AFB41D411E17008D2274 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AFB31D411E17008D2274 /* SettingsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +64,24 @@
 		A6F8AF861D410878008D2274 /* MoviesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoviesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6F8AF8A1D410878008D2274 /* MoviesUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MoviesUITests.m; sourceTree = "<group>"; };
 		A6F8AF8C1D410878008D2274 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6F8AF981D410CBE008D2274 /* more.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more.png; sourceTree = "<group>"; };
+		A6F8AF9A1D4117BB008D2274 /* help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.png; sourceTree = "<group>"; };
+		A6F8AF9C1D4117CB008D2274 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		A6F8AF9E1D4117D5008D2274 /* about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = about.png; sourceTree = "<group>"; };
+		A6F8AFA01D411C49008D2274 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		A6F8AFA11D411C49008D2274 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		A6F8AFA31D411C74008D2274 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		A6F8AFA41D411C74008D2274 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		A6F8AFA61D411CE0008D2274 /* BookmarksViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookmarksViewController.h; sourceTree = "<group>"; };
+		A6F8AFA71D411CE0008D2274 /* BookmarksViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookmarksViewController.m; sourceTree = "<group>"; };
+		A6F8AFA91D411D0F008D2274 /* DetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailsViewController.h; sourceTree = "<group>"; };
+		A6F8AFAA1D411D0F008D2274 /* DetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailsViewController.m; sourceTree = "<group>"; };
+		A6F8AFAC1D411DFB008D2274 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		A6F8AFAD1D411DFB008D2274 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		A6F8AFAF1D411E08008D2274 /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		A6F8AFB01D411E08008D2274 /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
+		A6F8AFB21D411E17008D2274 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		A6F8AFB31D411E17008D2274 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +132,10 @@
 		A6F8AF611D410878008D2274 /* Movies */ = {
 			isa = PBXGroup;
 			children = (
+				A6F8AF9E1D4117D5008D2274 /* about.png */,
+				A6F8AF9C1D4117CB008D2274 /* settings.png */,
+				A6F8AF9A1D4117BB008D2274 /* help.png */,
+				A6F8AF981D410CBE008D2274 /* more.png */,
 				A6F8AF651D410878008D2274 /* AppDelegate.h */,
 				A6F8AF661D410878008D2274 /* AppDelegate.m */,
 				A6F8AF681D410878008D2274 /* ViewController.h */,
@@ -113,6 +146,20 @@
 				A6F8AF761D410878008D2274 /* Info.plist */,
 				A6F8AF6E1D410878008D2274 /* Movies.xcdatamodeld */,
 				A6F8AF621D410878008D2274 /* Supporting Files */,
+				A6F8AFA01D411C49008D2274 /* LoginViewController.h */,
+				A6F8AFA11D411C49008D2274 /* LoginViewController.m */,
+				A6F8AFA31D411C74008D2274 /* SearchViewController.h */,
+				A6F8AFA41D411C74008D2274 /* SearchViewController.m */,
+				A6F8AFA61D411CE0008D2274 /* BookmarksViewController.h */,
+				A6F8AFA71D411CE0008D2274 /* BookmarksViewController.m */,
+				A6F8AFA91D411D0F008D2274 /* DetailsViewController.h */,
+				A6F8AFAA1D411D0F008D2274 /* DetailsViewController.m */,
+				A6F8AFAC1D411DFB008D2274 /* AboutViewController.h */,
+				A6F8AFAD1D411DFB008D2274 /* AboutViewController.m */,
+				A6F8AFAF1D411E08008D2274 /* HelpViewController.h */,
+				A6F8AFB01D411E08008D2274 /* HelpViewController.m */,
+				A6F8AFB21D411E17008D2274 /* SettingsViewController.h */,
+				A6F8AFB31D411E17008D2274 /* SettingsViewController.m */,
 			);
 			path = Movies;
 			sourceTree = "<group>";
@@ -246,9 +293,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6F8AF9D1D4117CB008D2274 /* settings.png in Resources */,
 				A6F8AF751D410878008D2274 /* LaunchScreen.storyboard in Resources */,
+				A6F8AF9B1D4117BB008D2274 /* help.png in Resources */,
 				A6F8AF721D410878008D2274 /* Assets.xcassets in Resources */,
+				A6F8AF991D410CBE008D2274 /* more.png in Resources */,
 				A6F8AF6D1D410878008D2274 /* Main.storyboard in Resources */,
+				A6F8AF9F1D4117D5008D2274 /* about.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,10 +324,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6F8AFAE1D411DFB008D2274 /* AboutViewController.m in Sources */,
 				A6F8AF6A1D410878008D2274 /* ViewController.m in Sources */,
 				A6F8AF671D410878008D2274 /* AppDelegate.m in Sources */,
 				A6F8AF701D410878008D2274 /* Movies.xcdatamodeld in Sources */,
 				A6F8AF641D410878008D2274 /* main.m in Sources */,
+				A6F8AFB11D411E08008D2274 /* HelpViewController.m in Sources */,
+				A6F8AFA51D411C74008D2274 /* SearchViewController.m in Sources */,
+				A6F8AFA81D411CE0008D2274 /* BookmarksViewController.m in Sources */,
+				A6F8AFB41D411E17008D2274 /* SettingsViewController.m in Sources */,
+				A6F8AFA21D411C49008D2274 /* LoginViewController.m in Sources */,
+				A6F8AFAB1D411D0F008D2274 /* DetailsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
